@@ -1,2 +1,2 @@
-# practical_education
-jobs for student
+# universal-store
+smartphone website selling
