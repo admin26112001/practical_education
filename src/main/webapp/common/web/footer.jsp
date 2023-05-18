@@ -9,48 +9,40 @@
                         <li class="navbar__menu-item">
                             <a href="#">
                                 <i class="far fa-credit-card"></i>
-                                <p>Hướng dẫn thanh toán</p>
+                                <p>Hình thức làm việc</p>
                             </a>
                         </li>
                         <li class="navbar__menu-item">
                             <a href="#">
                                 <i class="fas fa-truck-moving"></i>
-                                <p>Chính sách giao hàng</p>
+                                <p>Kinh nghiệm làm việc</p>
                             </a>
                         </li>
                         <li class="navbar__menu-item">
                             <a href="#">
                                 <i class="fas fa-shield-alt"></i>
-                                <p>Chính sách bảo hành</p>
+                                <p>Cấp bậc làm việc</p>
                             </a>
                         </li>
                         <li class="navbar__menu-item">
                             <a href="#">
                                 <i class="fas fa-tags"></i>
-                                <p>Tổng hợp khuyến mãi</p>
+                                <p>Mức lương</p>
                             </a>
                         </li>
                     </ul>
                 </div>
             </div>
         </div>
-        <div class="newsletter">
-            <div class="newsletter-content">
-                <h3>UNIVERSAL STORE- GÌ CŨNG CÓ, MUA HẾT Ở UNIVERSAL STORE</h3>
-                <p>Universal Store - ứng dụng mua sắm trực tuyến thú vị, tin cậy, an toàn và miễn phí! Universal Store là nền tảng giao dịch trực tuyến hàng đầu ở Đông Nam Á, có trụ sở chính ở Việt Nam, đã có mặt ở khắp các khu vực Singapore, Malaysia, Indonesia, Thái Lan, Philippines, Đài Loan, Brazil, México, Colombia, Poland & Spain. Với sự đảm bảo của Universal Store, bạn sẽ mua hàng trực tuyến an tâm và nhanh chóng hơn bao giờ hết!</p>
-            </div>
-        </div>
+
         <div class="contact">
             <div class="contact-info">
                 <div class="title">Universal Store</div>
                 <p>Nguyễn Tiến Hoàng Vũ - 19110069</p>
-                <p>Ninh Khải Hoàn - 19146087</p>
+                <p>Nguyễn Ngọc Thiện - 19110148</p>
             </div>
             <div class="contact-phone">
                     <div class="title">HỆ THỐNG TỔNG ĐÀI</div>
-                    <p>Tổng đài mua hàng : 0978335489</p>
-                    <p>Tư vấn mua hàng (Miễn phí): </p>
-                    <p>1800 2611 (Nhánh 1)</p>
                     <p>Hỗ trợ kỹ thuật:</p>
                     <p>1800 2611 (Nhánh 2)</p>
                 </div>
@@ -68,11 +60,7 @@
                         </a>
                     </div>
             </div>
-            <div class="contact-payment">
-                <div class="title">THANH TOÁN</div>
-                <p>Thanh toán khi lấy hàng</p>
-                <p>Thanh toán bằng Cart</p>
-            </div>
+
         </div>
         <div class="info">
             <p>Địa chỉ: 53/6/1B, đường số 18, Khu phố 5, P. Linh Trung, TP. Thủ Đức, TP. HCM, Việt Nam. Email: nguyentienhoangvu2611@gmail.com</p>

@@ -26,9 +26,12 @@ public class DBUtil {
 				Configuration configuration = new Configuration();
 				Properties settings = new Properties();
 				settings.put(Environment.DRIVER, "com.mysql.jdbc.Driver");
-				settings.put(Environment.URL, "jdbc:mysql://localhost:3306/phoneweb?useSSL=false");
-				settings.put(Environment.USER, "root");
-				settings.put(Environment.PASS, "123456");
+//				settings.put(Environment.URL, "jdbc:mysql://localhost:3306/phoneweb?useSSL=false");
+//				settings.put(Environment.USER, "root");
+//				settings.put(Environment.PASS, "123456");
+				settings.put(Environment.URL, "jdbc:mysql://practicaleducation.mysql.database.azure.com:3306/pe?useSSL=false");
+				settings.put(Environment.USER, "educationDB");
+				settings.put(Environment.PASS, "Ngocthien2306.com");
 				settings.put(Environment.DIALECT, "org.hibernate.dialect.MySQLInnoDBDialect");
 
 				settings.put(Environment.SHOW_SQL, "true");
